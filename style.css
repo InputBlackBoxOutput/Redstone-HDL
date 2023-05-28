@@ -3,8 +3,9 @@ body {
   background-color: #AFAFAF !important;
 }
 
-#redstone-labs {
-  font-size: x-large;
+#title {
+  font-size: 1.7rem;
+  margin: 0;
 }
 
 .container-fluid {
@@ -17,11 +18,13 @@ textarea {
 
 .CodeMirror {
   border: 2px solid black;
+  border-radius: 5px;
 }
 
 .img-container {
   padding: 4px;
   border: 2px solid black;
+  border-radius: 5px;
 }
 
 footer {
